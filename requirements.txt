@@ -26,6 +26,6 @@ SpeechRecognition==3.10.4
 tqdm==4.66.5
 typing_extensions==4.12.2
 urllib3==2.8.0
-Werkzeug==3.0.6
+Werkzeug==3.1.9
 zope.event==5.0
 zope.interface==7.0.3
